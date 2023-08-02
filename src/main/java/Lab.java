@@ -5,6 +5,7 @@ public class Lab {
      * let's first look into how we can leverage them in our code. Every test, for instance, has to first create an
      * object before it runs the code contained within. Let's do something similar here.
      *
+     * 
      * Instantiate any object using the 'new' keyword.
      * It doesn't matter what type of object you use.
      * If you're not feeling creative, you can use the Object class.
